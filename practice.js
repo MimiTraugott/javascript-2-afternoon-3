@@ -26,8 +26,14 @@
   Write a function called first that takes in two parameters, an array and a callback function.
   Then invoke the callback function, passing in the first element in the array as it's argument.
 */
+// callback pattern
+//  function funky(cb){
+//  cb()
+//  }
 
-// Code Here 
+function first(param1, param2){
+  []
+}
 
 // Do not edit the code below.
 var names = ['Tyler', 'Cahlan', 'Ryan', 'Colt', 'Tyler', 'Blaine', 'Cahlan'];
